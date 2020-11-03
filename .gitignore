@@ -87,6 +87,10 @@ celerybeat-schedule
 # SageMath parsed files
 *.sage.py
 
+
+# Own files
+run.txt
+
 # Environments
 .env
 .venv
